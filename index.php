@@ -1,4 +1,7 @@
 <?php
+
+//warma2d
+
 require_once 'StorageClass.php';
 
 class TxtStorage extends Storage
